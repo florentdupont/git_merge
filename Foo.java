@@ -1,7 +1,7 @@
 
 public class Foo {
 
-    public static void doSomething(int a, int b) {
+    public static void add(int a, int b) {
         return a+b;
     }
 
